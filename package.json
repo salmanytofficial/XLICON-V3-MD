@@ -1,19 +1,19 @@
 {
-    "name": "Xlicon-V3-MD",
+    "name": "N-V3-MD",
     "version": "3.0",
-    "description": "Whatsapp Bot By SalmanSer",
+    "description": "Whatsapp Bot By Maldives Mak",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
         "lib": "lib",
         "src": "src",
-        "media": "XliconMedia"
+        "media": "M.MMedia"
     },
     "scripts": {
         "code": "node main.js",
         "start": "node index.js"
     },
-    "author": "salmanytofficial",
+    "author": "Maldivesmak",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.6.0",
